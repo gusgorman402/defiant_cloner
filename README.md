@@ -6,7 +6,8 @@ The repo contains 3 programs. Most of the required libraries are in the Arduino 
 defiant_rx.ino - Receives Defiant wireless remote signal to decode & display the device ID; outputs to serial monitor. Paste the 
                  device ID into the transmit programs. The CC1101 chip has trouble syncing with this remote signal. You may have to press 
                  the remote button several times, for several seconds to get a decode. Sometimes it works the first time, sometimes 
-                 it takes multiple button presses; sometimes reseting the ESP8266 helps too
+                 it takes multiple button presses; sometimes reseting the ESP8266 helps too. RTL-SDR with URH can be used to receive and
+                 decode the device ID also
                  
 defiant_tx.ino - Creates a webpage for controlling Defiant switch using CC1101. Accessible via your local wifi network
 
