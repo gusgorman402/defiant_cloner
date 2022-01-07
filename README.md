@@ -11,7 +11,7 @@ defiant_rx.ino - Receives Defiant wireless remote signal to decode & display the
 defiant_tx.ino - Creates a webpage for controlling Defiant switch using CC1101. Accessible via your local wifi network
 
 defiant_weather.ino - Program for turning Defiant switch on when outdoor temperature is below freezing. Uses temperature data 
-                      from OpenWeatherMap. Timestamped (NTP) temp is output to WebSerial page, accessible on local wifi network. 
+                      from OpenWeatherMap. Time-stamped (NTP) temp is output to WebSerial page, accessible on local wifi network. 
                       WebSerial has option to turn the switch on with "Turn power off" and "Turn power on" commands. Temp data
                       is updated every 15 minutes. Edit variables for wifi name, OpenWeatherMap API key, 
                       Defiant device ID, UTC timezone offset, and optional refresh time (set to 15 minutes) before compiling.
