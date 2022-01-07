@@ -1,5 +1,6 @@
 # defiant_cloner
-Cloning Defiant wireless switch with CC1101 and ESP8266
+Cloning Defiant wireless switch with CC1101 and ESP8266. Defiant Models YLT-42A and YLT-42, sold at Home Depot
+
 Schematic can be found on SmartRC CC1101 gitub page https://github.com/LSatan/SmartRC-CC1101-Driver-Lib
 
 The repo contains 3 programs. Most of the required libraries are in the Arduino Library Manager, or download info is listed in the .ino files
