@@ -23,7 +23,7 @@ byte deviceID[16] = { INSERT YOUR DEVICE ID BYTES HERE. GET VALUES FROM DEFIANT_
 //byte deviceID[16] = {0x80, 0x00, 0x00, 0x00, 0xEE, 0x88, 0x88, 0xEE, 0xEE, 0xEE, 0xE8, 0xE8, 0xEE, 0xE8, 0x88, 0x8E}; //example deviceID
 
 
-bool olderRemote = true;  //if you are using older remote YLT-40C(YLT-42), change olderRemote variable to true. New model is YLT-42AC(YLT-42A)
+bool olderRemote = false;  //if you are using older remote YLT-40C(YLT-42), change olderRemote variable to true. New model is YLT-42AC(YLT-42A)
 
 const long interval = 900000; //time in millseconds to wait between temperature checks. Wait 15minutes
 
