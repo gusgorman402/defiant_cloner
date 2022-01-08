@@ -21,7 +21,7 @@ The repo contains 3 programs. Most of the required libraries are in the Arduino 
                       Defiant device ID, UTC timezone offset, and optional refresh time (set to 15 minutes) before compiling.
                       I use this program to control my birdbath heater during the winter
 
-
+![Defiant_package](/images/defiant_box.jpg)
 ![Older_back](/images/olderModel_back.jpg)
 
 
