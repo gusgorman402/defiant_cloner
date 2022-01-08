@@ -23,18 +23,8 @@ The repo contains 3 programs. Most of the required libraries are in the Arduino 
 
 ![Defiant_package](/images/defiant_box.jpg)
 ![Older_back](/images/olderModel_back.jpg)
-
-
-![Newer back](/iamges/newerModel_back.jpg)
-
-
+![Newer back](/images/newerModel_back.jpg)
 ![Older_front](/images/olderModel_front.jpg)
-
-
 ![Newer_front](/images/newerModel_front.jpg)
-
-
 ![NodeMCU](/images/breadboard1.jpg)
-
-
 ![NodeMCU](/images/breadboard2.jpg)
